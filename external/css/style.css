@@ -7192,9 +7192,3 @@ span.badge-size {
     bottom: 20px;
     left: 20px;
 }
-
-/*Lazy loader*/
-.lazyloading {
-    background: #f7f7f7 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
-    min-height: 60px;
-}
